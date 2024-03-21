@@ -2,7 +2,11 @@
 <h1 align="center"><b>Hi , I'm Leandro Alonso </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg";"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=5bc0de&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer,;Systems+Analyst,;Systems+Engineering+Student,;Problem+Solver,;Love+to+learn+new+stuffs..<3"></a>
+    <div style="background-image: linear-gradient(to right, #D8BFD8, #CCCCFF, #93C5FD, #f56d84, #fab370, #FFDAB9, #FFA07A); padding: 20px;">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" style="color: #5bc0de;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=5bc0de&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer,;Systems+Analyst,;Systems+Engineering+Student,;Problem+Solver,;Love+to+learn+new+stuffs..<3">
+  </a>
+</div>
 </p>
 
 
