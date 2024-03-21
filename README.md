@@ -106,7 +106,7 @@
 
 | Arriero App | Project 2 | Project 3 | Project 4 |
 |-----------|-----------|-----------|-----------|
-| ![sh_2_arriero](https://github.com/LeoAlonso20/LeoAlonso20/assets/69329169/8166f361-0b42-48d1-9839-96aedb8ed81d) | [sh_2_fit](https://github.com/LeoAlonso20/LeoAlonso20/assets/69329169/37adb5bf-89b5-4eba-81e6-3cbcbdb11a80) |![sh_2_arriero]!![sh_2_life](https://github.com/LeoAlonso20/LeoAlonso20/assets/69329169/934b7ae3-7b8c-4e5b-b263-b55ad2307f17) | ![sh_1_life](https://github.com/LeoAlonso20/LeoAlonso20/assets/69329169/381edcc6-ec7f-499f-ad55-1eaccaafba73)
+| ![sh_2_arriero](https://github.com/LeoAlonso20/LeoAlonso20/assets/69329169/8166f361-0b42-48d1-9839-96aedb8ed81d) | ![sh_2_fit](https://github.com/LeoAlonso20/LeoAlonso20/assets/69329169/6be20f96-90d8-4f6c-925a-039cf542f043) | ![sh_2_life](https://github.com/LeoAlonso20/LeoAlonso20/assets/69329169/44f173cf-68b0-4b8c-9b5b-d3d96e4071f3) | 
 
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
