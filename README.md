@@ -36,7 +36,7 @@
     
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![C#](https://img.shields.io/badge/C#%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 <br>   
     
@@ -46,13 +46,26 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-  ![SASS](https://img.shields.io/badge/SASS-%23F7DF1E.svg?style=for-the-badge&logo=sass&logoColor=CD6799&color=000000)
+   ![SASS](https://img.shields.io/badge/SASS-%23F7DF1E.svg?style=for-the-badge&logo=sass&logoColor=CD6799&color=000000)
+   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+   ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+
 
 <br>
 
-- **Cloud Hosting**:
+- **Modern Web Application Development Tools**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+    ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+    ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+    ![Astro](https://img.shields.io/badge/Astro-%23212121.svg?style=for-the-badge&logo=astro&logoColor=white)
+    ![Electron.js](https://img.shields.io/badge/Electron.js-%2347848F.svg?style=for-the-badge&logo=electron&logoColor=white)
+
+
+
+  
+
     
 <br>
 
