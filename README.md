@@ -3,7 +3,7 @@
 <!--  -->A
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=5e81ac&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer,;Systems+Analyst,;Systems+Engineering+Student,;Problem+Solver,;Love+to+learn+new+stuffs..<3">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=5e81ac&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer,;Systems+Analyst,;Systems+Engineering+Student,;Problem+Solver,;Love+to+learn+new+stuffs.">
 </a>
 </p>
 
@@ -34,9 +34,9 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![C#](https://img.shields.io/badge/C#%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
 
 <br>   
     
@@ -45,6 +45,8 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+  ![SASS](https://img.shields.io/badge/SASS-%23F7DF1E.svg?style=for-the-badge&logo=sass&logoColor=CD6799&color=000000)
 
 <br>
 
