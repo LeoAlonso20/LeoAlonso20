@@ -101,7 +101,7 @@
 <br>
 <br>
 
-## My Latest Projects
+## <img src="https://media4.giphy.com/media/KBxibpobdhgAqKWeuo/giphy.gif?cid=ecf05e47rr2z9wl2tndghimbpn40cgofz7g3qzb8pr50z78p&rid=giphy.gif" width="25"> <b> My Latest Projects</b>
 
 
 
