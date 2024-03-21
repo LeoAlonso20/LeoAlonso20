@@ -104,9 +104,10 @@
 
 ## My Latest Projects
 
-| Project 1 | Project 2 |
+
+| Arriero App | Project 2 |
 |-----------|-----------|
-| [![Project 1](IMAGEN_DEL_PROYECTO_1)](URL_DEL_PROYECTO_1) | [![Project 2](IMAGEN_DEL_PROYECTO_2)](URL_DEL_PROYECTO_2) |
+| [![Project 1](![sh_2_arriero](https://github.com/LeoAlonso20/LeoAlonso20/assets/69329169/e45f969d-57f5-4fdc-8d0b-6b4ef03afaa7))](URL_DEL_PROYECTO_1) | [![Project 2](IMAGEN_DEL_PROYECTO_2)](URL_DEL_PROYECTO_2) |
 
 | Project 3 | Project 4 |
 |-----------|-----------|
