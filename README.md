@@ -104,43 +104,13 @@
 
 ## My Latest Projects
 
-<div align="center">
-  <div style="display: flex;">
-    <div style="margin: 10px; padding: 10px; border: 1px solid black;">
-      <h3>Project 1</h3>
-      <a href="URL_DEL_PROYECTO_1">
-        <img src="IMAGEN_DEL_PROYECTO_1" alt="Project 1" width="200">
-      </a>
-      <p>Descripción breve del proyecto 1.</p>
-    </div>
+| Project 1 | Project 2 |
+|-----------|-----------|
+| [![Project 1](IMAGEN_DEL_PROYECTO_1)](URL_DEL_PROYECTO_1) | [![Project 2](IMAGEN_DEL_PROYECTO_2)](URL_DEL_PROYECTO_2) |
 
-    <div style="margin: 10px; padding: 10px; border: 1px solid black;">
-      <h3>Project 2</h3>
-      <a href="URL_DEL_PROYECTO_2">
-        <img src="IMAGEN_DEL_PROYECTO_2" alt="Project 2" width="200">
-      </a>
-      <p>Descripción breve del proyecto 2.</p>
-    </div>
-  </div>
-
-  <div style="display: flex;">
-    <div style="margin: 10px; padding: 10px; border: 1px solid black;">
-      <h3>Project 3</h3>
-      <a href="URL_DEL_PROYECTO_3">
-        <img src="IMAGEN_DEL_PROYECTO_3" alt="Project 3" width="200">
-      </a>
-      <p>Descripción breve del proyecto 3.</p>
-    </div>
-
-    <div style="margin: 10px; padding: 10px; border: 1px solid black;">
-      <h3>Project 4</h3>
-      <a href="URL_DEL_PROYECTO_4">
-        <img src="IMAGEN_DEL_PROYECTO_4" alt="Project 4" width="200">
-      </a>
-      <p>Descripción breve del proyecto 4.</p>
-    </div>
-  </div>
-</div>
+| Project 3 | Project 4 |
+|-----------|-----------|
+| [![Project 3](IMAGEN_DEL_PROYECTO_3)](URL_DEL_PROYECTO_3) | [![Project 4](IMAGEN_DEL_PROYECTO_4)](URL_DEL_PROYECTO_4) |
 
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
