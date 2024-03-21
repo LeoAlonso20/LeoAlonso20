@@ -101,7 +101,7 @@
 <br>
 <br>
 
-## <img src="https://media.giphy.com/media/qr3ZyWgwGQjbJ1oSOf/giphy.gif?cid=790b7611u0uaw25svifhnwdlgklaz0keyjn51cqeehelh6wc&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25"> <b> My Latest Projects</b>
+## <img src="https://media.giphy.com/media/qr3ZyWgwGQjbJ1oSOf/giphy.gif?cid=790b7611u0uaw25svifhnwdlgklaz0keyjn51cqeehelh6wc&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> <b> My Latest Projects</b>
 
 
 | Arriero App | Fit Manage | LIFE UP | Portfolio Dev |
@@ -113,7 +113,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50">
 <br>
 <div align='left'>
 
