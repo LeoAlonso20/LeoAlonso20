@@ -104,13 +104,9 @@
 
 ## My Latest Projects
 
-| Arriero App | Project 2 |
-|-----------|-----------|
-| ![sh_2_arriero](https://github.com/LeoAlonso20/LeoAlonso20/assets/69329169/8166f361-0b42-48d1-9839-96aedb8ed81d) | ![sh_2_arriero](https://github.com/LeoAlonso20/LeoAlonso20/assets/69329169/8166f361-0b42-48d1-9839-96aedb8ed81d) |
-
-| Project 3 | Project 4 |
-|-----------|-----------|
-| [![Project 3](IMAGEN_DEL_PROYECTO_3)](URL_DEL_PROYECTO_3) | [![Project 4](IMAGEN_DEL_PROYECTO_4)](URL_DEL_PROYECTO_4) |
+| Arriero App | Project 2 | Project 3 | Project 4 |
+|-----------|-----------|-----------|-----------|
+| ![sh_2_arriero](https://github.com/LeoAlonso20/LeoAlonso20/assets/69329169/8166f361-0b42-48d1-9839-96aedb8ed81d) | ![sh_1_life](https://github.com/LeoAlonso20/LeoAlonso20/assets/69329169/381edcc6-ec7f-499f-ad55-1eaccaafba73) |![sh_2_arriero](https://github.com/LeoAlonso20/LeoAlonso20/assets/69329169/8166f361-0b42-48d1-9839-96aedb8ed81d) | ![sh_1_life](https://github.com/LeoAlonso20/LeoAlonso20/assets/69329169/381edcc6-ec7f-499f-ad55-1eaccaafba73)
 
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
