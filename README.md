@@ -106,7 +106,7 @@
 
 | Arriero App | Project 2 |
 |-----------|-----------|
-| ![sh_2_arriero](https://github.com/LeoAlonso20/LeoAlonso20/assets/69329169/8166f361-0b42-48d1-9839-96aedb8ed81d) | [![Project 2](IMAGEN_DEL_PROYECTO_2)](URL_DEL_PROYECTO_2) |
+| ![sh_2_arriero](https://github.com/LeoAlonso20/LeoAlonso20/assets/69329169/8166f361-0b42-48d1-9839-96aedb8ed81d) | ![sh_2_arriero](https://github.com/LeoAlonso20/LeoAlonso20/assets/69329169/8166f361-0b42-48d1-9839-96aedb8ed81d) |
 
 | Project 3 | Project 4 |
 |-----------|-----------|
