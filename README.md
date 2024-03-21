@@ -3,7 +3,7 @@
 <!--  -->A
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=5e81ac&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer,;Systems+Analyst,;Systems+Engineering+Student,;Problem+Solver,;Love+to+learn+new+stuffs.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=6acff6&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer,;Systems+Analyst,;Systems+Engineering+Student,;Problem+Solver,;Love+to+learn+new+stuffs.">
 </a>
 </p>
 
@@ -75,7 +75,9 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    [![Jira](https://img.shields.io/badge/Jira-%230A83DD.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+ 
 
 <br>
 
