@@ -105,7 +105,7 @@
 
 
 
-| Arriero App | Project 2 | Project 3 | Project 4 |
+| Arriero App | Fit Manage | LIFE UP | Portfolio Dev |
 |-----------|-----------|-----------|-----------|
 | ![sh_2_arriero](https://github.com/LeoAlonso20/LeoAlonso20/assets/69329169/8166f361-0b42-48d1-9839-96aedb8ed81d) | ![sh_2_fit](https://github.com/LeoAlonso20/LeoAlonso20/assets/69329169/6be20f96-90d8-4f6c-925a-039cf542f043) | ![sh_2_life](https://github.com/LeoAlonso20/LeoAlonso20/assets/69329169/44f173cf-68b0-4b8c-9b5b-d3d96e4071f3) | ![sh_port](https://github.com/LeoAlonso20/LeoAlonso20/assets/69329169/6402ac48-99e9-4bbf-a93f-bd99bd858494)
 
