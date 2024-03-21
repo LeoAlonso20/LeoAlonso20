@@ -19,11 +19,11 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Frontend Developer & Systems Analyst.
+- I specialize in crafting user-centric digital solutions.
+- Personal website [link](https://alonso-leandro-dev.netlify.app/)
+- Graduated as a Systems Analyst and currently completing a degree in Systems Engineering at the National Technological University.
+- From Córdoba, Argentina 🇦🇷!
 
 <br><br>
 
