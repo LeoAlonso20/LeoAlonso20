@@ -101,7 +101,7 @@
 <br>
 <br>
 
-## <img src="https://giphy.com/embed/qr3ZyWgwGQjbJ1oSOf" width="25"> <b> My Latest Projects</b>
+## <img src="https://media.giphy.com/media/qr3ZyWgwGQjbJ1oSOf/giphy.gif?cid=790b7611u0uaw25svifhnwdlgklaz0keyjn51cqeehelh6wc&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25"> <b> My Latest Projects</b>
 
 
 | Arriero App | Fit Manage | LIFE UP | Portfolio Dev |
