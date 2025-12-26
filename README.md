@@ -2,7 +2,7 @@
 <!--  -->
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=6acff6&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer,;Systems+Analyst,;Systems+Engineer,;Problem+Solver,;Love+to+learn+new+stuffs.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=6acff6&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineer,;Systems+Analyst,;Software+Developer,;Problem+Solver,;Love+to+learn+new+stuffs.">
 </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 <br>
 
-- Frontend Developer & Systems Analyst.
+- Systems Engineer, Software Developer & Systems Analyst.
 - I specialize in crafting user-centric digital solutions.
 - Personal website [link](https://alonso-leandro-dev.netlify.app/)
 - Graduated as a Systems Analyst and currently completing a degree in Systems Engineering at the National Technological University.
